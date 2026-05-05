@@ -1,4 +1,4 @@
 dash
-dash_bio
+dash-bio
 gunicorn
 biopython
